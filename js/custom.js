@@ -88,3 +88,12 @@ $(document).ready(function(){ //when document is ready
   }
   );
 });
+
+/*========== SKILLS COUNTER ==========*/
+
+$(document).ready(function() { //when document is ready
+        $('.counter').counterUp({
+            delay: 10, //delay in milliseconds per count up
+            time: 3000 //(originally 1800) total time taken by the animation
+        });
+    });
