@@ -323,6 +323,27 @@ img.example-image {
   font-weight: 700;
 }
 
+/*============= CLIENTS SECTION =============*/
+
+.clients img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  transition: transform .3s ease;
+}
+.clients img:hover {
+  transform: scale(0.95);
+}
+blockquote .svg-inline--fa {
+  margin: 1rem;
+  color: #1EBBA3;
+}
+.clients-hr {
+  border-top: .05rem solid #1EBBA3;
+}
+
+
+
 
 
 
