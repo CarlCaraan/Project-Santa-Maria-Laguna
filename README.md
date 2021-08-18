@@ -1,1 +1,1 @@
-# SML---Responsive-Bootstrap-Theme
+# Udemy-Bootstrap-SML-Responsive-Theme
