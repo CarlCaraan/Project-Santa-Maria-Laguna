@@ -69,6 +69,7 @@ a.navbar-brand:hover {
 /*============= Landing Page =============*/
 .home-inner{
   background-image: url('img/background.jpg');
+  height: 157%!important; /*Change the height of the image*/
 }
 
 .caption{
